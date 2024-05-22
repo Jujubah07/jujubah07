@@ -1,16 +1,14 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💜
 
-<!--
-**Jujubah07/jujubah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Júlia
 
-Here are some ideas to get you started:
+-estou estudando no Vieira;
+-estou se desenvolvendo nas linguagens do Javascript;
+-através desse site estou organizando meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## networking 🦋
+
+000010832026sp@al.educacao.sp.gov.br
+
+![](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-borboletas-voando-9.gif)
+
